@@ -3,5 +3,6 @@
 # Dataset
   ## How to obtain the dataset:
     **huggingface**
-    Link [[SO-TAD](https://huggingface.co/datasets/cccccxy/so-tad)](https://huggingface.co/datasets/cccccxy/so-tad)
+    https://huggingface.co/datasets/cccccxy/so-tad
+
 
